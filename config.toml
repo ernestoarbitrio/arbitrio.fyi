@@ -1,0 +1,26 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'arbitrio.fyi'
+theme = 'PaperMod'
+paginate = 5
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 2
+
+  # show selector to switch language
+  showLanguageSelector = false
+
+  # set theme to full screen width
+  fullWidthTheme = false
+
+  # center theme with default width
+  centerTheme = false
+
+
+  showLastUpdated = false
+
+
+[params.twitter]
+  creator = ""
+  site = ""
