@@ -9,6 +9,7 @@ paginate = 5
   author = "Ernesto Arbitrio"
   description = "Call me pamaron"
   gtagId = "G-L18ZJ5LY2H"
+  enableRobotsTXT = true
 
   contentratio = 0.77
 
@@ -37,6 +38,13 @@ url = "https://www.linkedin.com/in/ernestoarbitrio/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:ernesto@arbitrio.fyi"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
 
 [menu]
 
