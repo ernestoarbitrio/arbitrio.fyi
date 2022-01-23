@@ -1,8 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "anatole"
-paginate = 5
+paginate = 15
 enableEmoji = true
+summarylength = 10
 
 [params]
   profilePicture = "images/me-avatar.png"
