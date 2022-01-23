@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "anatole"
 paginate = 5
+enableEmoji = true
 
 [params]
   profilePicture = "images/me-avatar.png"
@@ -10,7 +11,7 @@ paginate = 5
   description = "Call me pamaron"
   gtagId = "G-L18ZJ5LY2H"
   enableRobotsTXT = true
-
+  favicon = "favicons/"
   contentratio = 0.77
 
   showLanguageSelector = false

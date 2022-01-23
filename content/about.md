@@ -26,3 +26,5 @@ I am a Senior Software Engineer at [Crunch.io](https://crunch.io/team/) / YouGov
 I am a Python passionate (almost addicted).
 
 I am actively involved in the [PyCon Italia](https://www.pycon.it) organization.
+
+![signature](/images/signature.png)
