@@ -5,6 +5,11 @@ paginate = 15
 enableEmoji = true
 summarylength = 10
 
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  series = 'series'
+
 [params]
   profilePicture = "images/me-avatar.png"
   title = "FYI I'm Ernesto"
@@ -13,12 +18,30 @@ summarylength = 10
   gtagId = "G-L18ZJ5LY2H"
   enableRobotsTXT = true
   favicon = "favicons/"
-  contentratio = 0.77
-
+  contentratio = 0.75
+  readMore = true
   showLanguageSelector = false
   showLastUpdated = false
-
+  oldContentWarning = true
+  oldContentDuration = 365
+  reversepagetitle = true
   mainSections = ["posts"]
+  customCss = ["css/custom.css"]
+  LanguageDirection = "rtl"
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = 'dracula'
+    tabWidth = 4
   
 
 [[params.socialIcons]]

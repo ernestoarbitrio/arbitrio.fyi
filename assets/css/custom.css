@@ -1,0 +1,11 @@
+hr {
+  border-top: none;
+  border-bottom: 1px solid #d4d4d4;
+}
+p {
+  font-size: 1.65rem;
+}
+
+header .nav__list {
+  font-size: 1.5rem;
+}
