@@ -1,12 +1,11 @@
 ---
+title: "Understanding and use python virtualenvs from Data Scientist perspective"
 date: 2018-06-19
 draft: false
 categories: ["Virtualenv"]
 tags: ["python", "python-virtualenv"]
 old_content_duration: 365
 ---
-
-# Understanding and use python virtualenvs from Data Scientist perspective
 
 A Virtual Environment is a real good way to keep the dependencies
 required by different projects in separate places, by creating virtual

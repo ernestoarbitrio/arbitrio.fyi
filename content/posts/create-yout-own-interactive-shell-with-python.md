@@ -1,12 +1,11 @@
 ---
+title: "Create your custom interactive shell with python 🐍"
 date: 2022-01-19T12:52:43+01:00
 draft: false
 categories: ["Python"]
 tags: ["python", "advanced-features"]
 socialShareLink: true
 ---
-
-# Create your custom interactive shell with python 🐍
 
 It can happen that, sometimes, you need a CLI for you application, and maybe could be
 nice to have a custom interactive shell with command completion and history. Python has the
