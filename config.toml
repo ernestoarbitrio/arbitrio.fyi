@@ -28,6 +28,10 @@ summarylength = 10
   mainSections = ["posts"]
   customCss = ["css/custom.css"]
   LanguageDirection = "rtl"
+  disableThemeSwitcher = true
+  pygmentsCodeFences = true
+  pygmentsUseClasses = true
+  enableMediumZoom = false
 
 [markup]
   [markup.highlight]
@@ -86,7 +90,13 @@ url = "mailto:ernesto@arbitrio.fyi"
   url = "/posts/"
 
   [[menu.main]]
-  name = "About"
+  name = "Projects"
   weight = 300
+  identifier = "projects"
+  url = "/portfolio/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 400
   identifier = "about"
   url = "/about/"

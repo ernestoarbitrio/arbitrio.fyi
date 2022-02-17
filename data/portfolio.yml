@@ -1,0 +1,30 @@
+portfolioitems:
+  # portfolio category
+  - title: Coding Projects
+    # items within a category
+    portfolioitem:
+      - name: Histolab
+        image: /images/histolab.png
+        link: https://github.com/histolab/histolab/
+        description: "A library for Digital Pathology Image Processing."
+        tags:
+          - data-science
+          - python
+          - digital pathology
+          - bioinformatics
+        start: "2020"
+        authors:
+          - Ernesto Arbitrio
+          - Alessia Marcolini
+          - Nicole Bussola
+
+      - name: Pytest Runner
+        image: /images/pytest-runner-logo.png
+        link: https://github.com/ernestoarbitrio/pytest-runner/
+        description: "A vscode extension allows you to run test (in a very quick way) in your 🐍 python codebase using pytest "
+        tags:
+          - vscode
+          - pytest
+        start: "2022"
+        authors:
+          - Ernesto Arbitrio
